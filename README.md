@@ -23,9 +23,9 @@ El protagonista de Pokémon rojo y azul es un joven preadolescente —***el jueg
 2. Pocket Monsters: Yellow
     * [Pokémon Yellow: Special Pikachu Edition](https://es.wikipedia.org/wiki/Pok%C3%A9mon_Yellow)
 3. Pokémon FireRed y Pokémon LeafGreen
-    * Pokémon RojoFuego
-        a. Game Freak
-        b. [The Pokémon Company](https://es.wikipedia.org/wiki/The_Pok%C3%A9mon_Company)
+    * Pokémon RojoFuego 
+        1.  Game Freak
+        2. [The Pokémon Company](https://es.wikipedia.org/wiki/The_Pok%C3%A9mon_Company)
 4. Pokémon Ruby y Sapphire
 
 ## Extracto de código del juego
