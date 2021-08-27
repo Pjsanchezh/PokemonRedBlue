@@ -29,7 +29,7 @@ El protagonista de Pokémon rojo y azul es un joven preadolescente —***el jueg
 4. Pokémon Ruby y Sapphire
 
 ## Extracto de código del juego
-```
+```html
 <div class="collapse" id="collapseExample">
   <div class="card card-body">
     Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry
